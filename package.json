@@ -1,0 +1,17 @@
+{
+  "name": "geektime2pdf",
+  "version": "1.0.0",
+  "description": "极客时间专栏文章 转为 PDF",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jjeejj",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.0",
+    "puppeteer": "^19.6.0",
+    "superagent": "^8.0.0"
+  }
+}
